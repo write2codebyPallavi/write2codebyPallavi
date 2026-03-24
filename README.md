@@ -1,8 +1,19 @@
 # 💫 About Me:
-Quality Engineer | Manual & Automation Testing | Ensuring reliable, high-quality software
+| Quality Engineer | Manual & Automation Testing | Ensuring reliable, high-quality software |
 
+Hi there 👋 I'm a QA Engineer
 
-## 🌐 Socials:
+🔍 Passionate about ensuring software quality through Automation & Manual Testing
+⚙️ Skilled in Selenium, Playwright, API Testing
+🚀 Focused on building reliable, scalable, and bug-free applications
+
+💼 What I Do
+Design and maintain automated test frameworks
+Perform API & UI testing
+Improve product quality and reliability
+Help teams deliver business-ready software
+
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-kumari-w2c) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@write2code) 
 
 # 💻 Tech Stack:
@@ -12,14 +23,6 @@ Quality Engineer | Manual & Automation Testing | Ensuring reliable, high-quality
 ![](https://nirzak-streak-stats.vercel.app/?user=write2codebyPallavi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=write2codebyPallavi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=write2codebyPallavi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=write2codebyPallavi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=write2codebyPallavi&icon=0&color=0)](https://visitcount.itsvg.in)
